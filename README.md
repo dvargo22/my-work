@@ -1,6 +1,6 @@
 # My Work
 
-This repository contains case studies and writing samples of my technical writing and UX writing.
+This repository contains case studies of my technical writing and UX writing.
 
 To learn more about me, my background, and my documentation process, check out my [homepage](https://github.com/dvargo22).
 
@@ -9,7 +9,8 @@ To learn more about me, my background, and my documentation process, check out m
 - [UX Writing](#ux-writing)
 - [Content Writing](#content-writing)
 
-## Technical Writing
+## Case Studies
+### Technical Writing
 | Deliverable | Client | Date | Documentation Type | Description |
 | ------------- |----------------- |------------------ | ----------- | ----------- |
 | HP Global Network Infrastructure Policy Document | HP Inc. | August - November 2024 | Business Standards | This document, titled "Secure Manufacturing Environment," dictates the policies, procedures, and best practices for all manufacturing sites under the Microfluidics Technology Organization (MTO) business unit at HP. Topics covered include removable media, software installation,  PC naming conventions, security patch protocols, Active Directory standards, and more. The intended audience is technicians who work in laboratory and fabrication environments in Corvallis, Oregon, Penang, Malaysia, and Singapore, as well as the global and local network infrastructure teams who serve them. 
@@ -17,11 +18,11 @@ To learn more about me, my background, and my documentation process, check out m
 | User Manual for Community Experience Partnership (CEP) Service Planning Tool (SPT) | University of California San Diego / County of San Diego Behavioral Health Services (SDCBHS) | March 2024 | User Guide | Created a user manual for a custom application designed by UC San Diego that helps social workers identify at-risk demographics in the County of San Diego.
 | Microsoft Word Macros for Technical Writers | University of Washington Professional Technical Writing Certification | August 2023 |  This document explains how to set up macros in a Microsoft Word template and how technical communicators can benefit from incorporating them into their workflows.|
 
-## UX Writing
+### UX Writing
 | Deliverable | Client | Date | Documentation Type | Description |
 | ------------- |----------------- |------------------ | ----------- | ----------- |
 
-## Content Writing
+### Content Writing
 | Deliverable | Client | Date | Content Type | Description |
 | ------------- |----------------- |------------------ | ----------- | ----------- |
 | Pharmaceutical Marketing Flyer | AstraZeneca | March 2024 | Marketing Flyer | Wrote copy for an AstraZeneca marketing flyer distributed to clinical oncologists.
