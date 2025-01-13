@@ -8,7 +8,7 @@ To learn more about my background and experience, check out my [homepage](https:
 - [Technical Writing](#technical-writing)
 - [UX Writing](#ux-writing)
 - [Content Writing](#content-writing)
-
+<br/>
 ## Case Studies
 ### Technical Writing
 | Deliverable | Client | Date | Documentation Type | Description |
@@ -17,14 +17,14 @@ To learn more about my background and experience, check out my [homepage](https:
 | NetApp Quickstart Guide | HP Inc. | December 2024 | Quickstart Guide | Written in collaboration with a network engineer, this document explains how the HP Corvallis Infrastructure team manages volumes, shares, and LUN storage with NetApp software for users on the HP Manufacturing network. 
 | User Manual for Community Experience Partnership (CEP) Service Planning Tool (SPT) | University of California San Diego / County of San Diego Behavioral Health Services (SDCBHS) | March 2024 | User Guide | Created a user manual for a custom application designed by UC San Diego that helps social workers identify at-risk demographics in the County of San Diego.
 | Microsoft Word Macros for Technical Writers | University of Washington Professional Technical Writing Certification | August 2023 | How-To | This document explains how to set up macros in a Microsoft Word template and how technical communicators can benefit from incorporating them into their workflows.|
-
+<br/><br/>
 ### UX Writing
 | Deliverable | Client | Date | Content Type | Description |
 | ------------- |----------------- |------------------ | ----------- | ----------- |
 | Homepage hero section and search functionality redesign | TVH | August 2022 | Microcopy | Collaborated with a content strategist, a UX designer, and the CX team to help customers find replacement parts faster.
 | Handshake Onboarding Flow | UX Content Collective | November 2021 | Wireframes and Content | Wrote microcopy and designed wireframes for Handshake, a fictional app created for the UX Content Collective final project. This case study focuses on an onboarding flow.
 | UX Writing Challenges | Braintrust | November 2021 | Microcopy | Wrote copy for push notifications, error messages, promo overlays, pop-up modals, SEO meta-descriptions, and more.
-
+<br/><br/>
 ### Content Writing
 | Deliverable | Client | Date | Content Type | Description |
 | ------------- |----------------- |------------------ | ----------- | ----------- |
