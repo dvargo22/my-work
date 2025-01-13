@@ -2,9 +2,9 @@
 
 This repository contains case studies of my technical writing and UX writing.
 
-To learn more about me, my background, and my documentation process, check out my [homepage](https://github.com/dvargo22).
+To learn more about my background and experience, check out my [homepage](https://github.com/dvargo22).
 
-## Table of Contents
+## Contents
 - [Technical Writing](#technical-writing)
 - [UX Writing](#ux-writing)
 - [Content Writing](#content-writing)
@@ -19,8 +19,11 @@ To learn more about me, my background, and my documentation process, check out m
 | Microsoft Word Macros for Technical Writers | University of Washington Professional Technical Writing Certification | August 2023 |  This document explains how to set up macros in a Microsoft Word template and how technical communicators can benefit from incorporating them into their workflows.|
 
 ### UX Writing
-| Deliverable | Client | Date | Documentation Type | Description |
+| Deliverable | Client | Date | Content Type | Description |
 | ------------- |----------------- |------------------ | ----------- | ----------- |
+| Homepage hero section and search functionality redesign | TVH | August 2022 | Microcopy | Collaborated with a content strategist, a UX designer, and the CX team to help customers find replacement parts faster.
+| Handshake Onboarding Flow | UX Content Collective | November 2021 | Wireframes and Content | Wrote microcopy and designed wireframes for Handshake, a fictional app created for the UX Content Collective final project. This case study focuses on an onboarding flow.
+| UX Writing Challenges | Braintrust | November 2021 | Microcopy | Wrote copy for push notifications, error messages, promo overlays, pop-up modals, SEO meta-descriptions, and more.
 
 ### Content Writing
 | Deliverable | Client | Date | Content Type | Description |
